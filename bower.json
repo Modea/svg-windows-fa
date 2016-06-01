@@ -1,0 +1,9 @@
+{
+  "name": "svg-windows-fa",
+  "version": "1.0.0",
+  "author": "Modea",
+  "description": "Font-Awesome windows icon as an svg angular 1.5 component.",
+  "main": "windows.js",
+  "license": "OFL-1.1",
+  "ignore": []
+}
